@@ -93,5 +93,5 @@ This project is great for beginner-to-intermediate learners to understand:
 
 ## 👨‍💻 Author
 
-Made with passion by **Thiru**
+Made with passion by **Thiruvenkatachari**
 Feel free to **fork**, **play**, and **contribute**!
